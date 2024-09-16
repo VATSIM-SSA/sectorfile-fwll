@@ -1,0 +1,8 @@
+===== Malawi Airports =====
+
+^ ICAO      ^ Name               ^ City       ^ Status             ^ Remarks ^
+| [[airport:fwcl:home|FWCL]]  | Chileka Intl       | Blantyre   | //In Development// | - |
+| [[airport:fwki:home|FWKI]]  | Kamuzu Intl        | Lilongwe   | //In Development// | - |
+
+
+{{page>fw-footer#Malawi}}

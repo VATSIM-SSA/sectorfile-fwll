@@ -1,0 +1,7 @@
+===== FWLL Lilongwe Initial Climb =====
+
+^ ICAO ^ RWY ^ Initial Fix ^ Initial Climb ^ Remarks ^
+| FWCL | 10-28 | - | A070 | - |
+| FWKI | 14-32 | - | A070 | - |
+
+{{page>fw-footer#FWLL}}

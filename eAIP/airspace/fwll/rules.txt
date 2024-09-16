@@ -1,0 +1,32 @@
+===== FWLL Lilongwe Airspace Rules =====
+
+==== Separation ====
+
+  * Lilongwe 
+
+=== Vertical Separation ===
+
+  * Separation of 1000 ft in RVSM airspace and below then 2000 ft above RVSM airspace
+
+=== Horizontal Separation ===
+
+  * Minimum of 100 NM separation, except for RNP 10 approved routes.
+
+=== Longitudinal Separation ===
+
+  * Minimum of 20 Minutes separation using the MNT, except for RNP 10 approved routes, when 10 Minutes can be applied..
+
+==== SELCAL ====
+
+  * FWLL Lilongwe does NOT offer SELCAL capabilities.
+
+==== SLOP ====
+
+  * There is no published information regarding SLOP for the FWLL Lilongwe FIR.
+
+==== VFR Rules ====
+
+  * Flights over populous areas are not allowed below 1500 ft above the highest obstacle within a radius of 2000 ft from the aircraft.
+  * VFR Flights cannot operated above FL150.
+
+{{page>fw-footer#FWLL}}

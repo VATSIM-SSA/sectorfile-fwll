@@ -1,0 +1,24 @@
+===== FWLL Lilongwe Flight Information Region =====
+
+  * The Lilongwe FIR covers the entirety of Malawi's borders. It borders Tanzania (HTDC) to the East, Zambia (FLFI) to the West and Mozambique (FQBE) to the South (including Southeast and Southwest).
+
+==== Airport Coverage ====
+
+Lilongwe FIR covers the following airports:
+
+=== Malawi ===
+
+{{page>country:malawi:airports#Malawi Airports}}
+
+
+==== RNP10 Routes ====
+
+^ Airway  ^ Segment        ^ Remarks ^
+| UL431   | ORLIM to GIPVO | - | 
+| L/UL437 | NIBOR to ELEPA | - |
+| M/UM315 | ESPOP to IMKAL | - |
+| N/UN305 | LABON to KUSKI | - |
+| T/UT481 | KAVAL to LONON | - |
+
+
+{{page>fw-footer#FWLL}}

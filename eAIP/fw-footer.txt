@@ -1,0 +1,22 @@
+===== Malawi =====
+----
+
+//This page is a subsection of the [[country:malawi:home|Malawi]] country page.//
+
+
+===== FWLL =====
+----
+
+[[airspace:fwll:home|FWLL]] Lilogwe FIR | v0.1
+
+
+===== FWCL =====
+----
+
+[[country:fwcl:home|FWCL]] - | v0.1
+
+
+===== FWKI =====
+----
+
+[[country:fwki:home|FWKI]] - | v0.1

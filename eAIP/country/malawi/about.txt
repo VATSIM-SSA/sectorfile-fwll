@@ -1,0 +1,8 @@
+===== Malawi Information =====
+
+Malawi, officially the Republic of Malawi, is a landlocked country in Southeastern Africa that was formerly known as Nyasaland. It is bordered by [[country:zambia:home|Zambia]] to the west, [[country:tanzania:home|Tanzania]] to the north and northeast, and [[country:mozambique:home|Mozambique]] to the east, south and southwest. Malawi spans over 118,484 km2 (45,747 sq mi) and has an estimated population of 19,431,566 (as of January 2021). Malawi's capital (and largest city) is Lilongwe. Its second-largest is Blantyre, its third-largest is Mzuzu and its fourth-largest is its former capital, Zomba. The name Malawi comes from the Maravi, an old name for the Chewa people who inhabit the area. The country is nicknamed "The Warm Heart of Africa" because of the friendliness of its people.
+
+For more information, please visit [[https://en.wikipedia.org/wiki/Malawi|Wikipedia]].
+
+
+{{page>fw-footer#Malawi}}

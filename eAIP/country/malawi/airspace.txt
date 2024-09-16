@@ -1,0 +1,7 @@
+==== Malawi Airspace ====
+
+^ ICAO  ^ Name      ^ SSA Code  ^ Type    ^ Remarks ^
+| FWLL  | Lilongwe  | [[airspace:fwll:home|FWLL]]  | -
+
+
+{{page>fw-footer#Malawi}}

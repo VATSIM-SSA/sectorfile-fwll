@@ -1,0 +1,17 @@
+===== FWLL Lilongwe Sectors =====
+
+  * 
+
+==== FWLL Lilongwe Sector ====
+
+^ Position  ^ Callsign          ^ Frequency ^ CPDLC ^ Remarks ^
+| FWLL_CTR  | Lilongwe Control  | 120.600   | FWLL  | - |
+
+^ Airspace      ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Lilongwe CTA  | A     | FWLL_CTR  | FL145 - UNLTD | - |
+| Lilongwe FIR  | A     | FWLL_CTR  | FL145 - UNLTD | - |
+
+
+
+
+{{page>fw-footer#FWLL}}
